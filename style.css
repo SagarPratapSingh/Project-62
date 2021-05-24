@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: cyan;
+}
+
+#gg1 {
+    padding-top: 70px;
+}
+
+#sg2 {
+    padding-top: 70px;
+}
+
+#div_con img {
+    width: 240px;
+    height: 290px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#img1 {
+    width: 460px;
+    height: 290px;
+}
+
+#img2,
+#img3,
+#img4,
+#img5,
+#img6,
+#img7,
+#img8 {
+    width: 240px;
+    height: 290px;
+}
+
+#carousel {
+    padding-top: 70px;
+}
